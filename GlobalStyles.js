@@ -1,0 +1,80 @@
+/* fonts */
+export const FontFamily = {
+  nunitoRegular: "Nunito-Regular",
+  semibold16: "Poppins-SemiBold",
+  crimsonProRegular: "CrimsonPro-Regular",
+  croissantOneRegular: "CroissantOne-Regular",
+  actorRegular: "Actor-Regular",
+  dMSansRegular: "DMSans-Regular",
+  poppinsBold: "Poppins-Bold",
+  dMSansBold: "DMSans-Bold",
+  poppinsMedium: "Poppins-Medium",
+  interBold: "Inter-Bold",
+  polyRegular: "Poly-Regular",
+  poppinsRegular: "Poppins-Regular",
+  openSansSemiBold: "OpenSans-SemiBold",
+  poppinsExtraBold: "Poppins-ExtraBold",
+  portLligatSansRegular: "PortLligatSans-Regular",
+  portLligatSlabRegular: "PortLligatSlab-Regular",
+  openSansBold: "OpenSans-Bold",
+  droidSans: "Droid Sans",
+  calibriBold: "Calibri-Bold",
+  crimsonProBold: "CrimsonPro-Bold",
+  doppioOneRegular: "DoppioOne-Regular",
+};
+/* font sizes */
+export const FontSize = {
+  size_sm: 14,
+  semibold16_size: 16,
+  size_xl: 20,
+  size_6xl: 25,
+  size_mini: 15,
+  size_smi: 13,
+  size_2xs: 11,
+  size_3xs: 10,
+  size_11xl: 30,
+  size_xs: 12,
+  size_5xs: 8,
+  size_15xl: 34,
+  size_mid: 17,
+  size_26xl: 45,
+};
+/* Colors */
+export const Color = {
+  colorPalevioletred_100: "#ea698b",
+  colorPalevioletred_200: "#d55d92",
+  labelColorLightPrimary: "#000",
+  colorGray_100: "#fefefe",
+  black: "#0d0d26",
+  gray200: "#bab9d0",
+  colorWhite: "#fff",
+  colorMediumslateblue: "#4754f0",
+  bG: "#fafafd",
+  colorYellow_100: "#e8fc00",
+  colorDarkgray: "#8b9e9e",
+  colorDimgray: "#524b6b",
+  colorHotpink_100: "#c05299",
+  colorGainsboro_100: "#e6e6e6",
+  colorGainsboro_200: "#d9d9d9",
+  colorLightskyblue: "rgba(129, 183, 219, 0.68)",
+  colorDarkviolet: "#8600d8",
+  colorThistle: "#baafc2",
+  colorMidnightblue_100: "#47126b",
+  colorMidnightblue_200: "#150b3d",
+  colorMidnightblue_300: "rgba(13, 1, 64, 0.6)",
+};
+/* Paddings */
+export const Padding = {
+  p_mini: 15,
+  p_5xl: 24,
+};
+/* border radiuses */
+export const Border = {
+  br_5xs: 8,
+  br_mini: 15,
+  br_8xs: 5,
+  br_xs: 12,
+  br_71xl: 90,
+  br_7xs: 6,
+  br_3xs: 10,
+};
